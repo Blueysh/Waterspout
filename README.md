@@ -1,4 +1,6 @@
 # Waterspout
+[![Waterspout Stability](https://img.shields.io/github/workflow/status/Blueysh/Waterspout/Waterspout%20Stability?label=Waterspout%20Stability&logo=github&style=for-the-badge)](https://github.com/Blueysh/Waterspout/actions) [![License](https://img.shields.io/github/license/Blueysh/Waterspout?style=for-the-badge)](https://github.com/Blueysh/Waterspout/blob/master/LICENSE)
+
 A template for Spigot plugins that includes useful libraries to help you get started.
 
 ## Get Started with Waterspout
