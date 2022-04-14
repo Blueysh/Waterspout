@@ -1,0 +1,9 @@
+name: Plugin
+version: 1.0
+main: com.example.plugin.Plugin
+load: POSTWORLD
+api-version: 1.18
+author: Author
+description: An example Spigot plugin.
+commands:
+# Do not populate the commands section!
